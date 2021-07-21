@@ -1,1 +1,1 @@
-# javascript
+# Javascript examples and practice
